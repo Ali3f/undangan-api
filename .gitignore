@@ -14,3 +14,5 @@ yarn-error.log
 CODE_OF_CONDUCT.md
 SECURITY.md
 LICENSE
+.vercel
+.env*
